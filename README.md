@@ -19,6 +19,8 @@ Classification NLP/ML/DL de décisions de justice pour prédire l'application de
 ### 🚗 [assurance-auto-analyse](https://github.com/Majid-Roudani/assurance-auto-analyse)
 Analyse de 100 000 dossiers d'assistance automobile pour prédire la durée de traitement et anticiper l'attribution d'un véhicule de remplacement. Modélisation économétrique (OLS, Logit) et Machine Learning (Gradient Boosting, XGBoost, Random Forest), déployé via Streamlit.
 
+🔗 **[Voir l'application en ligne](https://assurance-auto-analyse.streamlit.app/)**
+
 ## 🛠️ Compétences
 
 **Data / ML :** Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn) · LightGBM · XGBoost · PyTorch · Transformers (CamemBERT) · FAISS · Machine Learning (régression, classification, clustering) · Économétrie
