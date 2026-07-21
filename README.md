@@ -1,8 +1,13 @@
 # Salut, je suis Majid 👋
 
-Actuellement en recherche de poste de **Data Analyst**.
+**Data Analyst** — je recherche un **stage de 6 mois**.
 
-Mon parcours : un **Master en Chimie des Matériaux** (2022), suivi d'une réorientation vers la data avec un **DU en Informatique Fondamentale**, puis un **DU Big Data, Data Science et Analyse des Risques (Python)** à l'Université de Montpellier. Je travaille sur des projets appliquant le Machine Learning, le Deep Learning et le NLP à des problématiques concrètes — juridique, assurance.
+Ingénieur en chimie des matériaux, réorienté vers la data : **2 ans d'expérience terrain chez OCP Maroc** (analyse de données industrielles, dashboards décisionnels), complétés par un **DU Big Data, Data Science et Analyse des Risques (Python)** à l'Université de Montpellier.
+
+## 💼 Expérience
+
+**OCP Maroc — Génie des procédés & Data Analyst (CDI)** · 2022–2024
+Extraction, nettoyage et structuration de données industrielles (SQL, procédés Aspen) · Analyse statistique et séries temporelles pour l'optimisation des performances industrielles · Dashboards décisionnels (Power BI / Tableau) pour le suivi eau/énergie et KPI process.
 
 ## 🔬 Projets phares
 
@@ -14,10 +19,20 @@ Classification NLP/ML/DL de décisions de justice pour prédire l'application de
 ### 🚗 [assurance-auto-analyse](https://github.com/Majid-Roudani/assurance-auto-analyse)
 Analyse de 100 000 dossiers d'assistance automobile pour prédire la durée de traitement et anticiper l'attribution d'un véhicule de remplacement. Modélisation économétrique (OLS, Logit) et Machine Learning (Gradient Boosting, XGBoost, Random Forest), déployé via Streamlit.
 
-## 🛠️ Stack technique
+## 🛠️ Compétences
 
-`Python` `scikit-learn` `LightGBM` `XGBoost` `PyTorch` `Transformers (CamemBERT)` `FAISS` `Streamlit` `Pandas` `statsmodels`
+**Data / ML :** Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn) · LightGBM · XGBoost · PyTorch · Transformers (CamemBERT) · FAISS · Machine Learning (régression, classification, clustering) · Économétrie
+
+**Data viz / BI :** Power BI · Tableau · Streamlit
+
+**Autres :** SQL/NoSQL · Traitement d'images · Excel avancé · HTML/CSS/JavaScript · Git/GitHub
+
+## 🎓 Formation
+
+- DU Big Data, Data Science et analyse des risques sous Python — Université de Montpellier, 2025
+- DU Connaissances fondamentales en informatique — Université de Montpellier, 2024
+- Master Chimie des matériaux (spé. développement durable, environnement et santé) — Université de Montpellier, 2022
 
 ## 📫 Me contacter
 
-*(à compléter — LinkedIn, email...)*
+[LinkedIn](https://www.linkedin.com/in/majid-rd) · majid.roudani@gmail.com · Montpellier
