@@ -50,7 +50,7 @@ Mon parcours combine la rigueur analytique d'un ingénieur scientifique et la ma
 
 ## Contact & Documents
 
-* **CV :** [Consulter mon CV (PDF)](https://github.com/Majid-Roudani/Majid-Roudani/raw/main/Majid_Roudani_CV.pdf)
+* **CV :** [Consulter mon CV (PDF)](https://github.com/Majid-Roudani/Majid-Roudani/raw/main/CV_Roudani_Majid.pdf)
 * **LinkedIn :** [linkedin.com/in/majid-rd](https://www.linkedin.com/in/majid-rd)
 * **GitHub :** [github.com/Majid-Roudani](https://github.com/Majid-Roudani)
 * **Email :** [majid.roudani@gmail.com](mailto:majid.roudani@gmail.com)
