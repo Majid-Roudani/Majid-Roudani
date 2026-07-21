@@ -1,6 +1,8 @@
 # Salut, je suis Majid 👋
 
-Étudiant en **Big Data, Data Science et Analyse des Risques** (DU, Python), je travaille sur des projets appliquant le Machine Learning, le Deep Learning et le NLP à des problématiques concrètes — juridique, assurance.
+Actuellement en recherche de poste de **Data Analyst**.
+
+Mon parcours : un **Master en Chimie des Matériaux** (2022), suivi d'une réorientation vers la data avec un **DU en Informatique Fondamentale**, puis un **DU Big Data, Data Science et Analyse des Risques (Python)** à l'Université de Montpellier. Je travaille sur des projets appliquant le Machine Learning, le Deep Learning et le NLP à des problématiques concrètes — juridique, assurance.
 
 ## 🔬 Projets phares
 
