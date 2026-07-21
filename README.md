@@ -35,6 +35,7 @@ Analyse de 100 000 dossiers d'assistance automobile pour prédire la durée de t
 - DU Connaissances fondamentales en informatique — Université de Montpellier, 2024
 - Master Chimie des matériaux (spé. développement durable, environnement et santé) — Université de Montpellier, 2022
 
-## 📫 Me contacter
+## 📫 Contact & Document
 
-[LinkedIn](https://www.linkedin.com/in/majid-rd) · majid.roudani@gmail.com · Montpellier
+- CV:[Majid Roudani]
+- [LinkedIn](https://www.linkedin.com/in/majid-rd) · majid.roudani@gmail.com · Montpellier
