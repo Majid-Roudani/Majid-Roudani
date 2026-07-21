@@ -1,6 +1,6 @@
 # Salut, je suis Majid 👋
 
-**Data Analyst** — je recherche un **stage de 6 mois**.
+**Data Analyst** — actuellement en recherche de poste.
 
 Ingénieur en chimie des matériaux, réorienté vers la data : **2 ans d'expérience terrain chez OCP Maroc** (analyse de données industrielles, dashboards décisionnels), complétés par un **DU Big Data, Data Science et Analyse des Risques (Python)** à l'Université de Montpellier.
 
